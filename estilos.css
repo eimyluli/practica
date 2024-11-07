@@ -1,0 +1,25 @@
+body{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    margin: 0 15%;
+}
+.negrita {
+    font-weight: bold;
+}
+.Titulo{
+    font-weight: bold;
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+}
+.linea{
+    margin: 0 5%;
+  border-color: gray;
+}
+
+
+a{
+color: #4E80EE;
+}
